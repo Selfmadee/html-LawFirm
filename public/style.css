@@ -1,0 +1,25 @@
+
+body, h1, h5, h6, p{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.section-1{
+    color: whitesmoke;
+    background-color: #3AA6B9;
+    font-family: Courier;
+    text-align: center;
+}
+.section-3{
+    text-align: left;
+}
+
+
+
+body{
+   background-color: white;
+}
